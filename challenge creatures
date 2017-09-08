@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+    </head>
+    <body>
+<style>
+   h1{
+       
+       color:rgb(0, 255, 4);
+   } body{
+       
+       background-color:rgb(191, 27, 52);
+       
+   }
+h3{
+    color:rgb(215, 222, 211);
+}
+    
+    
+    
+    
+    
+</style>
+        <h1>Merry Chirtmas!   </h1>
+        
+        <h3>Merry chirtmas and happy new year I hope you had a great time with the family.I hope you have a great time going back to school. See you soon!</h3>
+        
+   <img src="https://www.kasandbox.org/programming-images/seasonal/hopper-reindeer.png" alt="reindeer monster" width="160"> 
+   
+   <img src="https://www.kasandbox.org/programming-images/seasonal/hopper-elfer.png" alt="elf moster" width="150">  
+        
+    </body>
+</html>
